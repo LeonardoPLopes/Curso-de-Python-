@@ -1,0 +1,18 @@
+from math import sqrt     #Aqui voce pode importar só sqrt da biblioteca math
+import math               #Aqui voce importa a biblioteca math inteira
+
+trunc-cortar a parte das virgular
+ceil-aredondamento para cima
+floor- arredondamento para baixo
+pow- potencia
+sqrt - raiz quadrada
+factorial - fatorial
+
+no uso:
+.format(floor(variavel))
+
+
+Este é o site de tocas as bibiotecas(python 3.4.3)
+https://docs.python.org/release/3.4.3/library/numeric.html
+
+---------------------------------------------------------------------------------------
